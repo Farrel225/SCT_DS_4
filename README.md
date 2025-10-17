@@ -27,12 +27,7 @@ Here are the primary findings and the charts generated from the analysis:
 
 🛠️ Tools & Libraries Used
 
-    Python (as the primary programming language)
-
-    Jupyter Notebook (as the development environment)
-
-    Pandas (for data loading, cleaning, and manipulation)
-
-    Matplotlib & Seaborn (for creating static charts and graphs)
-
+    Python & Jupyter Notebook (primary programming language from the development environment)
+    Pandas (for data loading, cleaning, and manipulation), 
+    Matplotlib & Seaborn (for creating static charts and graphs), 
     Folium (for generating the interactive geographical heatmap)
