@@ -19,6 +19,7 @@ Here are the primary findings and the charts generated from the analysis:
 <img width="1303" height="833" alt="image" src="https://github.com/user-attachments/assets/ec186b23-e940-42d6-804d-bdba11d9a0fb" />
 
 3. Hotspots are Concentrated in Urban Areas 🗺️ The geographical visualization revealed that accident hotspots are heavily concentrated in and around major metropolitan areas and along critical highway corridors. This is expected due to the high population density and traffic congestion in these locations.
+(The Observation is of a particular country from the used dataset, which is mainly the USA.)
 
 <img width="1717" height="813" alt="image" src="https://github.com/user-attachments/assets/bf3629dd-6d96-40ee-9e17-ea3eef17a717" />
 <img width="1718" height="810" alt="image" src="https://github.com/user-attachments/assets/fac32fec-fb7c-4c83-8343-0500c3f2f701" />
