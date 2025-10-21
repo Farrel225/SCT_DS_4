@@ -18,6 +18,25 @@ Here are the primary findings and the charts generated from the analysis:
 
 <img width="1303" height="833" alt="image" src="https://github.com/user-attachments/assets/ec186b23-e940-42d6-804d-bdba11d9a0fb" />
 
+I used the python library - Folium to display accidents hotspot in the global map.
+
+What is Folium?
+At its core, Folium is a Python wrapper for a popular JavaScript mapping library called Leaflet.js.
+
+Think of it this way:
+
+Folium is the bridge 🌉 that lets you use simple Python commands to control the JavaScript engine. It takes your data (like coordinates and values) and writes the necessary HTML, CSS, and JavaScript code to generate a complete, interactive map.
+
+**Key Features and What They Do**
+
+Folium's power comes from its ability to easily add different layers to a base map. Base Maps: You can choose your map style right away. The default is OpenStreetMap, but you can easily switch to others like Stamen Terrain (for topography) or CartoDB darkmatter (for a sleek, dark look).
+
+Markers (Markers & Popups): This is the most basic function. You can place a pin at a specific latitude and longitude. You can also add a popup (which appears when you click the marker) or a tooltip (which appears when you hover).
+
+Heatmaps: This is exactly what we used in your project. It's perfect for showing the density or concentration of points. You give it a long list of coordinates, and it creates that "hotspot" effect, showing where the points are most clustered.
+
+The best part, you can save and export this self-contained HTML file that works completely offline and can be saved in your device.
+
 3. Hotspots are Concentrated in Urban Areas 🗺️ The geographical visualization revealed that accident hotspots are heavily concentrated in and around major metropolitan areas and along critical highway corridors. This is expected due to the high population density and traffic congestion in these locations.
 **(The Observation is of a particular country from the used dataset, which is mainly the USA.)**
 <img width="1717" height="813" alt="image" src="https://github.com/user-attachments/assets/bf3629dd-6d96-40ee-9e17-ea3eef17a717" />
