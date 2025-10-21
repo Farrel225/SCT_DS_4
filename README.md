@@ -23,9 +23,7 @@ I used the python library - Folium to display accidents hotspot in the global ma
 What is Folium?
 At its core, Folium is a Python wrapper for a popular JavaScript mapping library called Leaflet.js.
 
-Think of it this way:
-
-Folium is the bridge 🌉 that lets you use simple Python commands to control the JavaScript engine. It takes your data (like coordinates and values) and writes the necessary HTML, CSS, and JavaScript code to generate a complete, interactive map.
+Folium is the bridge that lets you use simple Python commands to control the JavaScript engine. It takes your data (like coordinates and values) and writes the necessary HTML, CSS, and JavaScript code to generate a complete, interactive map.
 
 **Key Features and What They Do**
 
